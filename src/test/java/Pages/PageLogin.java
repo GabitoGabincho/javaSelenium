@@ -6,6 +6,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
+import org.testng.Assert;
 
 import java.io.File;
 import java.io.IOException;
@@ -43,5 +44,12 @@ public class PageLogin {
         //helper1.sleepSeconds(5);
 
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+    }
+
+    public void putTittle(){
+        String titulo = driver.getTitle();
+        driver.findElement(userField).sendKeys(titulo);
+        // Assert.assertEquals("Welcome: Mercury Tours",driver.getTitle());
+        Assert.assertEquals("Welcome Mercury Tours",driver.getTitle());
     }
 }

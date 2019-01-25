@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ac308a9-69e5-4d7a-b596-adee63c23065" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Test/NewTour13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Test/NewTourHeadLess.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/PageLoginPFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/PageLoginPFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Test/NewTour10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test/NewTour10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Test/NewTourPFactory1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/PageLoginPFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/PageLoginPFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Test/NewTour10.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Test/NewTour10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Test/NewTourPFactory1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/PageLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/PageLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/PageLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/PageLogin.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -51,33 +49,48 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="4" />
-          <entry key="java" value="103" />
+          <entry key="java" value="109" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="4" />
-          <entry key="JAVA" value="103" />
+          <entry key="JAVA" value="109" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="8409" />
+          <entry key="java" value="8729" />
           <entry key="xml" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8409" />
+          <entry key="JAVA" value="8729" />
           <entry key="XML" value="6" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Test/NewTourHeadLess.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-136">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1723#1724#0" expanded="true" />
+                <element signature="e#1758#1759#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -107,7 +120,6 @@
         <option value="$PROJECT_DIR$/src/test/java/Test/NewTour7.java" />
         <option value="$PROJECT_DIR$/src/test/java/Test/NewTour4.java" />
         <option value="$PROJECT_DIR$/src/test/java/Pages/NewTour8.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Pages/PageLogin.java" />
         <option value="$PROJECT_DIR$/src/test/java/Test/NewTour8.java" />
         <option value="$PROJECT_DIR$/src/test/java/Test/NewTour9.java" />
         <option value="$PROJECT_DIR$/src/test/java/Helpers/ScreenShoters.java" />
@@ -121,14 +133,16 @@
         <option value="$PROJECT_DIR$/src/test/java/Pages/PageReservationPFactory.java" />
         <option value="$PROJECT_DIR$/src/test/java/Test/NewTour10.java" />
         <option value="$PROJECT_DIR$/src/test/java/Pages/PageLoginPFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Test/NewTour13.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Pages/PageLogin.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Test/NewTourHeadLess.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="163" />
-    <option name="y" value="17" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="179" />
     <option name="width" value="911" />
-    <option name="height" value="858" />
+    <option name="height" value="841" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -169,20 +183,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestAuto1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestAuto1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestAuto1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestAuto1" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -191,7 +192,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548453649633" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548456836236" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../software/jar_files/selenium-api-3.13.0.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -210,7 +211,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.NewTour10">
+  <component name="RunManager" selected="TestNG.NewTourHeadLess">
     <configuration name="NewTour10" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestAuto1" />
       <extension name="coverage">
@@ -259,7 +260,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NewTourPFactory1" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="NewTour13" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestAuto1" />
       <extension name="coverage">
         <pattern>
@@ -268,14 +269,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Test" />
-      <option name="MAIN_CLASS_NAME" value="Test.NewTourPFactory1" />
+      <option name="MAIN_CLASS_NAME" value="Test.NewTour13" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NewTourPFactory2" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="NewTourHeadLess" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestAuto1" />
       <extension name="coverage">
         <pattern>
@@ -284,7 +285,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Test" />
-      <option name="MAIN_CLASS_NAME" value="Test.NewTourPFactory2" />
+      <option name="MAIN_CLASS_NAME" value="Test.NewTourHeadLess" />
       <properties />
       <listeners />
       <method v="2">
@@ -293,18 +294,18 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.NewTour10" />
-      <item itemvalue="TestNG.NewTourPFactory1" />
-      <item itemvalue="TestNG.NewTourPFactory2" />
       <item itemvalue="TestNG.NewTour11" />
       <item itemvalue="TestNG.NewTour12" />
+      <item itemvalue="TestNG.NewTour13" />
+      <item itemvalue="TestNG.NewTourHeadLess" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.NewTourHeadLess" />
+        <item itemvalue="TestNG.NewTour13" />
         <item itemvalue="TestNG.NewTour10" />
         <item itemvalue="TestNG.NewTour11" />
         <item itemvalue="TestNG.NewTour12" />
-        <item itemvalue="TestNG.NewTourPFactory2" />
-        <item itemvalue="TestNG.NewTourPFactory1" />
       </list>
     </recent_temporary>
   </component>
@@ -322,27 +323,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="NewTour11 - 2019.01.24 at 19h 41m 12s.xml">
-      <configuration name="NewTour11" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="NewTour11 - 2019.01.24 at 19h 41m 54s.xml">
-      <configuration name="NewTour11" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="NewTour11 - 2019.01.24 at 19h 45m 05s.xml">
-      <configuration name="NewTour11" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="NewTour11 - 2019.01.24 at 19h 46m 03s.xml">
-      <configuration name="NewTour11" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="NewTour12 - 2019.01.25 at 18h 15m 55s.xml">
-      <configuration name="NewTour12" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="NewTour11 - 2019.01.25 at 18h 20m 25s.xml">
-      <configuration name="NewTour11" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="NewTour10 - 2019.01.25 at 18h 21m 05s.xml">
-      <configuration name="NewTour10" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="NewTour10 - 2019.01.25 at 18h 22m 50s.xml">
       <configuration name="NewTour10" configurationId="TestNG" />
     </history-entry>
@@ -351,6 +331,27 @@
     </history-entry>
     <history-entry file="NewTour10 - 2019.01.25 at 18h 55m 20s.xml">
       <configuration name="NewTour10" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="NewTour10 - 2019.01.25 at 19h 01m 08s.xml">
+      <configuration name="NewTour10" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="NewTour13 - 2019.01.25 at 19h 23m 16s.xml">
+      <configuration name="NewTour13" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="NewTour13 - 2019.01.25 at 19h 25m 44s.xml">
+      <configuration name="NewTour13" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="NewTour13 - 2019.01.25 at 19h 34m 42s.xml">
+      <configuration name="NewTour13" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="NewTour13 - 2019.01.25 at 19h 35m 50s.xml">
+      <configuration name="NewTour13" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="NewTour13 - 2019.01.25 at 19h 51m 02s.xml">
+      <configuration name="NewTour13" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="NewTourHeadLess - 2019.01.25 at 19h 54m 32s.xml">
+      <configuration name="NewTourHeadLess" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -363,9 +364,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="886" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20694087" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20694087" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -374,7 +376,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.43957505" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4555113" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997344" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -382,7 +384,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32934928" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.29083666" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.28950864" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -608,13 +610,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/PageLogin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Pages/PageLoginPFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -635,12 +630,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Test/NewTour10.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="52" column="6" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
+        <state>
+          <caret selection-end-line="55" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1577#1578#0" expanded="true" />
-            <element signature="e#1611#1612#0" expanded="true" />
+            <element signature="e#1610#1611#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/PageLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="52" column="37" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Test/NewTour13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1723#1724#0" expanded="true" />
+            <element signature="e#1758#1759#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Test/NewTourHeadLess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1723#1724#0" expanded="true" />
+            <element signature="e#1758#1759#0" expanded="true" />
           </folding>
         </state>
       </provider>
